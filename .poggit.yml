@@ -1,17 +1,7 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/CzechPMDevs/SmallPlugins
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/splexpe/SmallPlugins
 branches:
 - master
 projects:
-  ServerTransfer:
-    path: ServerTransfer/
-  WelcomeMessage:
-    path: WelcomeMessage/
   UnlimitedSlots:
     path: UnlimitedSlots/
-  BlockInfo:
-    path: BlockInfo/
-  SimpleHome:
-    path: SimpleHome/
-  BankPlugin:
-    path: BankPlugin/
 ...
